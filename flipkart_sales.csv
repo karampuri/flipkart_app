@@ -12,4 +12,3 @@ OrderID,OrderDate,CustomerID,CustomerName,Segment,City,State,Country,Region,Prod
 11,2023-10-20,C010,Ram Reddy,Consumer,Lucknow,UP,India,North,P010,Technology,Phones,Samsung Galaxy S21,64999.00,1,0.1,7000.00
 12,2023-10-20,C010,Krish,Consumer,Lucknow,UP,India,North,P010,Technology,Phones,Samsung Galaxy S21,64999.00,1,0.1,7000.00
 
-

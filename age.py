@@ -4,7 +4,6 @@ st.title('Welcome to Streamlit!')
 
 # To check weather person is eligible for vote or not
 age = st.number_input('Enter your age')
-
 st.write("You have entered Age: ", age)
 
 if age < 18:

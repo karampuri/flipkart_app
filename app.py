@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 # Title of the app
 st.title('Welcome to Flipkart Data!')
-
 # Read csv
 df = pd.read_csv('flipkart_sales.csv')
 # st.write(df)
